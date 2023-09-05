@@ -1,0 +1,49 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: Debian
+Label: Debian
+Suite: stable
+Version: 10.5
+Codename: stable
+Architectures: amd64 i386
+Components: main contrib non-free
+Description: Test repository
+MD5Sum:
+  1260a594927f97dbe3cc5723c670c7b2	807	main/binary-amd64/Packages.gz
+  e3c21b801da2a45ade2379e76b6f672f	1533	main/binary-amd64/Packages
+  f5895cba862fa80924a7bd1872a98ce3	860	main/binary-amd64/Packages.xz
+  4a322f7aa3a7d2a969ac6849f56f6d8e	163	baslik
+  092692dd0a53e048924e9e398fa669a3	422	Release
+SHA1:
+  61b411235a8f9c6edd8d5a74b66f522051150c1f	807	main/binary-amd64/Packages.gz
+  05c18c26e712f54d5a92a00bef8340992cb63eea	1533	main/binary-amd64/Packages
+  5b964f81afa22f1eabf3f0a201596db8f7bc72fb	860	main/binary-amd64/Packages.xz
+  24450523df18bd575f6ba28133eb092f7e3fdc79	163	baslik
+  c5d293fa48b668aac39c1f376014673325d95975	758	Release
+SHA256:
+  ea4276cdba1d6725b295f263dec3632330a6e6b7134ca82e49bf65abc9fbdf24	807	main/binary-amd64/Packages.gz
+  8c499155f06dc75860d7d1dcc13d296a06d053b42817bb353bee9f02e574f4d2	1533	main/binary-amd64/Packages
+  4986015126d3fd8d8c96dff55decc23e6f0324adf12f8023c78531c6e57183ce	860	main/binary-amd64/Packages.xz
+  d4f8f300c261b52883ae639de54fbc11a7e4aae4a3f3dec2bd90b2834d9f34f0	163	baslik
+  c8429ec2282be5b71b76b348cebde075a5504a7cdc7fd1881bae46956701108f	1200	Release
+SHA512:
+  b0f49a345b5b6bcde2d32dd365d49e03402cc939d3569a546a1545eda2a8b653cab2c3b6758a22d3301c1c28b0c5a590eaf3434387e056bbf7d6018e40eee80d	807	main/binary-amd64/Packages.gz
+  fd8aba08e139a68461b715ec1615efbebd8fb4a97ba3d2cded8b5ffd979d921ebf04b4b7f50f0f1a0d14b8abbaaab39da138a491f3426e24026156ad4ca6f579	1533	main/binary-amd64/Packages
+  82b70f8584a5349bbed5caf060e49e180bba86a3146c6799a1dbb58e2b024407b5fd2b68a6c816e8557285a7eac62a57aa38aa20534d0f67d405c179cebf4e55	860	main/binary-amd64/Packages.xz
+  ad38846cf585b215cab4bf338ad21969d362d0e8e351259d93cc7bd579e7ce97654da7aa4fe06c1ce169e3c5a3bbbdc126e1562c6527242da9e00cc057ae796e	163	baslik
+  bdc6ba1f3c8c682d780357b17b930e4c9e9cad7b4b6ab8ca8232c25f8b2d17affc1a7a43b2c2368e512e2d8f96ebdbb0ccb0a6805064928a863ae0f461da10e3	1923	Release
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEEvkkpD3uPJsBRS0cOHVsZ/YJen58FAmT3dXAACgkQHVsZ/YJe
+n5+jpAwAk6gRbolPcAmubD0Htg81l/JG9RWEYmnxVQnaq9WM/qApCz0ebfNF4wHe
+i6nfmEfu5U092Bwc0tmvB00vCLj3EKf6F2XDCs77EDdRQQ9oLHRYzvaHr/iQcuXN
+grbS6LK/QvY/CFgZSaYpMgYi5XmjWa7EK+6FuJ6KPIjy4HrP58flz1Ev6LqJFouf
+aU3jQ6JVR+vnxI6ilJ27nCLPWmvxhYqRWMfyEeuRKaYlHflBji5p5KuzDOJeNMk8
+0wycC8xytTlKSvCMdMX9jIiP01IHgE0hMM9D8wDHomjH7AnDBml6NLA6OufvEv60
+Qei84C27LcWkLSzlORrQAI611jKi9DnnqcLtzp1qnFBXCZNoi11fjSlThhjgI6Av
+5vTw+p6MGQWRJTa+89DF/tthllIz1ZWgRkS8Tto2e9/gJJQrmv2JoltILPtxpiZx
+cqmv0gBX65nBxiCjek3VGb/yc7YMkA1AS5fSMyMwtWijxr81q068RLL0Tlq4k54r
+eSORJYAf
+=Ib/J
+-----END PGP SIGNATURE-----
