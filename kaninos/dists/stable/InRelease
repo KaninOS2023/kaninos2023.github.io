@@ -7,8 +7,7 @@ Suite: stable
 Version: 10.5
 Codename: stable
 Changelogs: https://kaninos.github.io
-Date: Tue, 05 Sep 2023 14:34:59 +0300
-Acquire-By-Hash: yes
+Date: Tue, 05 Sep 2023 14:34:59 UTC
 Architectures: amd64 i386
 Components: main contrib non-free
 Description: Test repository
