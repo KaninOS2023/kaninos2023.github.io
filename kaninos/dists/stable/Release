@@ -1,0 +1,31 @@
+Origin: Debian
+Label: Debian
+Suite: stable
+Version: 10.5
+Codename: stable
+Changelogs: https://kaninos.github.io
+Date: Tue, 05 Sep 2023 14:34:59 +0300
+Acquire-By-Hash: yes
+Architectures: amd64 i386
+Components: main contrib non-free
+Description: Test repository
+MD5Sum:
+  1260a594927f97dbe3cc5723c670c7b2	807	main/binary-amd64/Packages.gz
+  e3c21b801da2a45ade2379e76b6f672f	1533	main/binary-amd64/Packages
+  f5895cba862fa80924a7bd1872a98ce3	860	main/binary-amd64/Packages.xz
+  6d38a3ebca1b1871a534e5c48be16023	473	Release
+SHA1:
+  61b411235a8f9c6edd8d5a74b66f522051150c1f	807	main/binary-amd64/Packages.gz
+  05c18c26e712f54d5a92a00bef8340992cb63eea	1533	main/binary-amd64/Packages
+  5b964f81afa22f1eabf3f0a201596db8f7bc72fb	860	main/binary-amd64/Packages.xz
+  b048ee7f025fbf99bffccd3efb9efdf9e01bcbd1	755	Release
+SHA256:
+  ea4276cdba1d6725b295f263dec3632330a6e6b7134ca82e49bf65abc9fbdf24	807	main/binary-amd64/Packages.gz
+  8c499155f06dc75860d7d1dcc13d296a06d053b42817bb353bee9f02e574f4d2	1533	main/binary-amd64/Packages
+  4986015126d3fd8d8c96dff55decc23e6f0324adf12f8023c78531c6e57183ce	860	main/binary-amd64/Packages.xz
+  ac307e945abb407edcad71ae62f04b26c849430b26f389976055e723b3c8f232	1119	Release
+SHA512:
+  b0f49a345b5b6bcde2d32dd365d49e03402cc939d3569a546a1545eda2a8b653cab2c3b6758a22d3301c1c28b0c5a590eaf3434387e056bbf7d6018e40eee80d	807	main/binary-amd64/Packages.gz
+  fd8aba08e139a68461b715ec1615efbebd8fb4a97ba3d2cded8b5ffd979d921ebf04b4b7f50f0f1a0d14b8abbaaab39da138a491f3426e24026156ad4ca6f579	1533	main/binary-amd64/Packages
+  82b70f8584a5349bbed5caf060e49e180bba86a3146c6799a1dbb58e2b024407b5fd2b68a6c816e8557285a7eac62a57aa38aa20534d0f67d405c179cebf4e55	860	main/binary-amd64/Packages.xz
+  e39c76a0790f7d93e8ba563788f3dd478609cbf8c96456137ee60dc380f642818788b4bf10aa2db225c8ca93ded169ba5aaa1906224f1f42e504675db003d93b	1700	Release
