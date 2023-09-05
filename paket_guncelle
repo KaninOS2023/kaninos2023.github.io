@@ -1,0 +1,6 @@
+#!bin/bash
+
+rm -f kaninos/dists/stable/main/binary-amd64/Packag*
+apt-ftparchive -a amd64 packages kaninos/pool/main > kaninos/dists/stable/main/binary-amd64/Packages
+gzip -k kaninos/dists/stable/main/binary-amd64/Packages
+xz -k kaninos/dists/stable/main/binary-amd64/Packages

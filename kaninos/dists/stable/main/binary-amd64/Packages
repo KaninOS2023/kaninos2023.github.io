@@ -1,36 +1,54 @@
-Package: pardus-image-writer
+Package: kaninos-xfce-gtk-theme-build-deps
 Architecture: all
-Version: 0.6.1
+Version: 1.0.0
+Multi-Arch: foreign
 Priority: optional
-Section: utils
-Maintainer: Fatih Altun <fatih.altun@pardus.org.tr>
-Installed-Size: 1199
-Depends: python3-gi, python3:any, parted, python3 (>= 3.5), python3-requests, python3-pyudev, rsync, gir1.2-gtk-3.0
-Filename: pool/main/p/pardus-image-writer_0.6.1_all.deb
-Size: 359016
-MD5sum: 7ba26a1a929a873f179fcaa5f839345c
-SHA1: 2b2a8667f16e5b4f670ece67934f89827f82dab0
-SHA256: 595e7ddd3a4aa3feaeed626dd930b0723481d56ed2c080c86e81c02661a335a1
-SHA512: dfce2ef572aea0074c3243088867da2e80ddfd340053e3d61104030c219bcac11bcdf58ef50948985f11db66c70b45e303a6638a36a83e348d30c10c3aab407b
-Homepage: https://github.com/pardus/pardus-image-writer
-Description: Pardus Image Writer
- Simple Gtk+ and Python based Disk Image USB burner
+Section: devel
+Maintainer: Equivs Dummy Package Generator <kaninos@pardus>
+Installed-Size: 9
+Depends: build-essential:amd64, debhelper-compat (= 13)
+Filename: kaninos/pool/main/k/kaninos-xfce-gtk-theme/kaninos-xfce-gtk-theme-build-deps_1.0.0_all.deb
+Size: 2124
+MD5sum: acda2d323de445e05cc451cb4ac29afb
+SHA1: e27e57749b2a3430d0341ae8003e6059150f8584
+SHA256: de002c9508bc531b2efb45dcbfa13ce56360077b7ae5331b24bdc8789329c653
+SHA512: 484b9b6543f066c76b9f8f22f7f14d2a481163a19e12be6ad63511483d58724117b695d8466b1d8f63e1efe117b4e5fa2f005e2030243250c284b6bfcb10e7d0
+Description: build-dependencies for kaninos-xfce-gtk-theme
+ Dependency package to build the 'kaninos-xfce-gtk-theme' package
 
-Package: pardus-java-installer
+Package: kaninos-xfce-icon-theme-build-deps
 Architecture: all
-Version: 0.3.0
+Version: 3.1.1
+Multi-Arch: foreign
 Priority: optional
-Section: utils
-Maintainer: Fatih Altun <fatih.altun@pardus.org.tr>
-Installed-Size: 107
-Depends: python3-gi, python3:any, python3 (>= 3.5), gir1.2-gtk-3.0
-Filename: pool/main/p/pardus-java-installer_0.3.0_all.deb
-Size: 12748
-MD5sum: b6ddbac4fe81fb3b030478f4fcff72c1
-SHA1: 8bba929a40f7699cd0998cbef44b9aa7724c257a
-SHA256: cd232c8a26c362a446fead2895d9cd2632e86799bfe092f35a17fc415518adfe
-SHA512: 5eec06b4e37b752dd717727df5dacaa007f71e1263ce4ace9967ea23c9dc9eb7f850310e5c0f52143ba8e335963f47088e028cfdb148a5483addef88ad596965
-Homepage: https://github.com/pardus/pardus-java-installer
-Description: Pardus Java Installer
- Install & Manage Java versions easily.
+Section: devel
+Maintainer: Equivs Dummy Package Generator <kaninos@pardus>
+Installed-Size: 9
+Depends: build-essential:amd64, debhelper-compat (= 13)
+Filename: kaninos/pool/main/k/kaninos-xfce-icon-theme/kaninos-xfce-icon-theme-build-deps_3.1.1_all.deb
+Size: 2124
+MD5sum: 3db515293047757533cb84791e09b6e0
+SHA1: 17cc7794705ac72a7235005a78ec21f9ad00aa10
+SHA256: f6fe2d79c880d039c14b8c9358e8a331df8b99ec723adfe53602bd6987761263
+SHA512: 6871521f1e135d59ddd35daef876517bdd78d5ad63e67156a313ec50723232fcdc1ffa7413610acb4c0b5dab1002785231caaac00a1a2696f1b60423663d8a4f
+Description: build-dependencies for kaninos-xfce-icon-theme
+ Dependency package to build the 'kaninos-xfce-icon-theme' package
+
+Package: kaninos-xfce-settings-build-deps
+Architecture: all
+Version: 0.0.1
+Multi-Arch: foreign
+Priority: optional
+Section: devel
+Maintainer: Equivs Dummy Package Generator <kaninos@pardus>
+Installed-Size: 9
+Depends: build-essential:amd64, debhelper (>= 9), intltool
+Filename: kaninos/pool/main/k/kaninos-xfce-settings/kaninos-xfce-settings-build-deps_0.0.1_all.deb
+Size: 2128
+MD5sum: 34a4cc12129e49da1ba47aa1c8b063c5
+SHA1: 7bcaad9b0c5502ecff575724db2d3cd8ad088dcc
+SHA256: 7fa51caa8538bb439189c5d6f4e5dc7e9db1a1b68a029118a633edf0da62bd3f
+SHA512: 8c87a77fc1b14420a40c9a73440690df0d8c099261a97cee1007a57b70e67ef6dfc7afc665c3313f6dc880bd51e1dc9ff6b62ba0cf28cd710277aaf0f1aee969
+Description: build-dependencies for kaninos-xfce-settings
+ Dependency package to build the 'kaninos-xfce-settings' package
 
