@@ -1,0 +1,49 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: Debian
+Label: Debian
+Suite: stable
+Version: 10.5
+Codename: stable
+Changelogs: https://sulincix.github.io
+Date: Tue, 05 Sep 2023 11:40:41 +0300
+Acquire-By-Hash: yes
+Architectures: amd64 i386
+Components: main contrib non-free
+Description: Test repository
+
+MD5Sum:
+  f5895cba862fa80924a7bd1872a98ce3	860	main/binary-amd64/Packages.xz
+  e3c21b801da2a45ade2379e76b6f672f	1533	main/binary-amd64/Packages
+  0e25a4b919818bbf79e799a740f85b32	807	main/binary-amd64/Packages.gz
+  062a950a6cc63b9f493ff62ed59e0d27	475	Release
+SHA1:
+  5b964f81afa22f1eabf3f0a201596db8f7bc72fb	860	main/binary-amd64/Packages.xz
+  05c18c26e712f54d5a92a00bef8340992cb63eea	1533	main/binary-amd64/Packages
+  7c65ba4c8614ed256b29672bca1ca8bff5db86b1	807	main/binary-amd64/Packages.gz
+  528380c4f0e989d8ceec045383ef4080641e1228	757	Release
+SHA256:
+  4986015126d3fd8d8c96dff55decc23e6f0324adf12f8023c78531c6e57183ce	860	main/binary-amd64/Packages.xz
+  8c499155f06dc75860d7d1dcc13d296a06d053b42817bb353bee9f02e574f4d2	1533	main/binary-amd64/Packages
+  980ef8e55aa13b53d66eb97ace7e2d2d4f1e3541ed2e39b95f06b7e59dbd8257	807	main/binary-amd64/Packages.gz
+  b9d3a489f101e4f9c2239e7f7188df8cf29ef4ea20fff31c0beaa57ef684809c	1121	Release
+SHA512:
+  82b70f8584a5349bbed5caf060e49e180bba86a3146c6799a1dbb58e2b024407b5fd2b68a6c816e8557285a7eac62a57aa38aa20534d0f67d405c179cebf4e55	860	main/binary-amd64/Packages.xz
+  fd8aba08e139a68461b715ec1615efbebd8fb4a97ba3d2cded8b5ffd979d921ebf04b4b7f50f0f1a0d14b8abbaaab39da138a491f3426e24026156ad4ca6f579	1533	main/binary-amd64/Packages
+  c833cd3c57186c7c9addc5dce7979d8a43566e888a7f708458a7ea0fd3f3d41f43b1581ab98530c2f6f1f4300ce48128218b7445ca6b490d44979475d0cc8c13	807	main/binary-amd64/Packages.gz
+  da35b8561ba5d77e305e20cf3e59529efb06500624eef8bf406fc4b17f08fce0de10c0e6ca312c75e939942acc97ea08a3e24c7bd0b1854a8a152469a007ba30	1702	Release
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEEHu/zlt7yUrZjqPBPrrSq5ioLDhsFAmT2+DwACgkQrrSq5ioL
+DhtSbAv/U/J7/hKJF6dvNfD3ulKBi6YOFbrzfGNLVSLobhBJ/ekNhj5g1wINP9XX
++xm78cqlCoDtK6zEEKbDTHueQHxf2erE089se/ybt20vYhxyJu2vcZvtanC7Qpua
+a3x9xMVVMthvalo8DHD9e9RbbmDN/DxUQOTWwLeQeIZ6amCejB1DH4PJqB4lJ8SG
+68brMvEGybGU5nIBMsW8sTg1A8M8eOM3oWbaIM5cu3TRx2pkq/NKPCEhVjZFTfij
+KKWz6Cc0CXX2OqmJS12WaTv0h8DZQCZ8zZQyrOBSY8wtbEB2dVCf1hjAliyjt5ss
+nNSue1avetPrfUO7+JTdTMg3zOIHd0lJ85SDN0s/ynAT3vD91vF/4GbnYgnVqXzM
+d/0B18xoddf5QhGX+FiK3oIG4Mm6Jxel/0v510k1iB+4CmTHySW7toiTOI3wtAab
+y1n2WqGaX/OUM0z1BCO3fR5mc7eUk6bbWHuA/IKumLSh8n5VjSQFb77qskwuZ0xC
+L6TBowRk
+=7K85
+-----END PGP SIGNATURE-----
