@@ -52,3 +52,23 @@ SHA512: 8c87a77fc1b14420a40c9a73440690df0d8c099261a97cee1007a57b70e67ef6dfc7afc6
 Description: build-dependencies for kaninos-xfce-settings
  Dependency package to build the 'kaninos-xfce-settings' package
 
+Package: pardus-xfce-gtk-theme
+Architecture: all
+Version: 1.0.0
+Priority: optional
+Section: x11
+Maintainer: Fatih Altun <fatih.altun@pardus.org.tr>
+Installed-Size: 1162
+Provides: pardus-gtk-theme
+Conflicts: pardus-gtk-theme
+Replaces: pardus-gtk-theme
+Filename: kaninos/pool/main/p/pardusu-xfce-gtk-theme_1.0.0_all.deb
+Size: 87460
+MD5sum: f852206fc49e5297b96dc8f564d5aad7
+SHA1: a18dd174303507ce7190bcbc86c02e98d989cfe1
+SHA256: 2c5bf08a80ae67c7baaaa70c69f459766e8c739db7f3d203105367eb23a1e48e
+SHA512: aef359f07ae15cbc9244d7c0f3b9fe04128f885055df5d53c81ed6c8e960ca0162f62c8226d7da9213e4e246250635d32f97f8fec035b202e6ada3ed71d97cbb
+Homepage: https://github.com/pardus/pardus-xfce-gtk-theme
+Description: Pardus XFCE GTK Theme for Pardus desktop environment.
+ This package contains Pardus XFCE GTK Themes.
+
