@@ -1,38 +1,43 @@
-Package: kaninos-xfce-gtk-theme-build-deps
+Package: kaninos-xfce-gtk-theme
 Architecture: all
 Version: 1.0.0
-Multi-Arch: foreign
 Priority: optional
-Section: devel
-Maintainer: Equivs Dummy Package Generator <kaninos@pardus>
-Installed-Size: 9
-Depends: build-essential:amd64, debhelper-compat (= 13)
-Filename: pool/main/k/kaninos-xfce-gtk-theme/kaninos-xfce-gtk-theme-build-deps_1.0.0_all.deb
-Size: 2124
-MD5sum: acda2d323de445e05cc451cb4ac29afb
-SHA1: e27e57749b2a3430d0341ae8003e6059150f8584
-SHA256: de002c9508bc531b2efb45dcbfa13ce56360077b7ae5331b24bdc8789329c653
-SHA512: 484b9b6543f066c76b9f8f22f7f14d2a481163a19e12be6ad63511483d58724117b695d8466b1d8f63e1efe117b4e5fa2f005e2030243250c284b6bfcb10e7d0
-Description: build-dependencies for kaninos-xfce-gtk-theme
- Dependency package to build the 'kaninos-xfce-gtk-theme' package
+Section: x11
+Maintainer: Batuhan Coşkun <kaninos2023@yandex.com>
+Installed-Size: 2877
+Provides: kaninos-gtk-theme
+Conflicts: kaninos-gtk-theme
+Replaces: kaninos-gtk-theme
+Filename: pool/main/k/kaninos-xfce-gtk-theme/kaninos-xfce-gtk-theme_1.0.0_all.deb
+Size: 147316
+MD5sum: 2e0e7b21748f684a4c73a766f620c247
+SHA1: 445ddf7d3bf228e8d30caae468288fe674983c4c
+SHA256: 0819afe8d57b10393267309869dbf234418f85f39c4cfe46543626cdf92516b6
+SHA512: 8b4ba9f857eb283674a1cce1f0a05431085cbf7a47b7e3d3ae6ea98b85128abeec93a9f27de0df860b87d5352a6b71599004ca05c02eaeb6a7c7159f182dc756
+Homepage: https://github.com/kaninos/kaninos-xfce-gtk-theme
+Description: kaninos XFCE GTK Theme for kaninos desktop environment.
+ This package contains kaninos XFCE GTK Themes.
 
-Package: kaninos-xfce-icon-theme-build-deps
+Package: kaninos-xfce-icon-theme
 Architecture: all
-Version: 3.1.1
-Multi-Arch: foreign
+Version: 0.0.1
 Priority: optional
-Section: devel
-Maintainer: Equivs Dummy Package Generator <kaninos@pardus>
-Installed-Size: 9
-Depends: build-essential:amd64, debhelper-compat (= 13)
-Filename: pool/main/k/kaninos-xfce-icon-theme/kaninos-xfce-icon-theme-build-deps_3.1.1_all.deb
-Size: 2124
-MD5sum: 3db515293047757533cb84791e09b6e0
-SHA1: 17cc7794705ac72a7235005a78ec21f9ad00aa10
-SHA256: f6fe2d79c880d039c14b8c9358e8a331df8b99ec723adfe53602bd6987761263
-SHA512: 6871521f1e135d59ddd35daef876517bdd78d5ad63e67156a313ec50723232fcdc1ffa7413610acb4c0b5dab1002785231caaac00a1a2696f1b60423663d8a4f
-Description: build-dependencies for kaninos-xfce-icon-theme
- Dependency package to build the 'kaninos-xfce-icon-theme' package
+Section: utils
+Maintainer: Batuhan Coşkun <kaninos2023@yandex.com>
+Installed-Size: 37986
+Provides: kaninos-icon-theme
+Depends: librsvg2-common
+Conflicts: kaninos-icon-theme
+Replaces: kaninos-icon-theme
+Filename: pool/main/k/kaninos-xfce-icon-theme/kaninos-xfce-icon-theme_0.0.1_all.deb
+Size: 1698340
+MD5sum: fa4d7a36ef39c82401e82f7cf374f555
+SHA1: 110955c31fbc72b441620869e9d79000e6ff891c
+SHA256: c3c58660baace80e1f5ad1d47b785e6a49bb6b2fe6339e0c58cbfb4415e17c91
+SHA512: d72ba954b6fc7a4e0e6774ad3b7845347334696e702c2087311d38e21177c7f08ba820e95535c0c6bbb5e8eeab3d96b8bf4957917c998ab90515731371ddfcd5
+Homepage: https://github.com/kaninos/kaninos-xfce-icon-theme
+Description: kaninos Xfce Icon Theme.
+ kaninos Xfce Icon Theme for kaninos Xfce desktop environment.
 
 Package: kaninos-xfce-settings-build-deps
 Architecture: all
