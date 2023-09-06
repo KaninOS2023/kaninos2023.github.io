@@ -57,23 +57,26 @@ SHA512: 8c87a77fc1b14420a40c9a73440690df0d8c099261a97cee1007a57b70e67ef6dfc7afc6
 Description: build-dependencies for kaninos-xfce-settings
  Dependency package to build the 'kaninos-xfce-settings' package
 
-Package: pardus-xfce-gtk-theme
-Architecture: all
-Version: 1.0.0
+Package: telegram-desktop
+Architecture: amd64
+Version: 4.6.5+ds-2
+Built-Using: libtgowt (= 0~git20230105.5098730+dfsg-2), ms-gsl (= 4.0.0-2), range-v3 (= 0.12.0-1), tl-expected (= 1.0.0~dfsg-3)
 Priority: optional
-Section: x11
-Maintainer: Fatih Altun <fatih.altun@pardus.org.tr>
-Installed-Size: 1162
-Provides: pardus-gtk-theme
-Conflicts: pardus-gtk-theme
-Replaces: pardus-gtk-theme
-Filename: pool/main/p/pardusu-xfce-gtk-theme_1.0.0_all.deb
-Size: 87460
-MD5sum: f852206fc49e5297b96dc8f564d5aad7
-SHA1: a18dd174303507ce7190bcbc86c02e98d989cfe1
-SHA256: 2c5bf08a80ae67c7baaaa70c69f459766e8c739db7f3d203105367eb23a1e48e
-SHA512: aef359f07ae15cbc9244d7c0f3b9fe04128f885055df5d53c81ed6c8e960ca0162f62c8226d7da9213e4e246250635d32f97f8fec035b202e6ada3ed71d97cbb
-Homepage: https://github.com/pardus/pardus-xfce-gtk-theme
-Description: Pardus XFCE GTK Theme for Pardus desktop environment.
- This package contains Pardus XFCE GTK Themes.
+Section: net
+Maintainer: Nicholas Guriev <guriev-ns@ya.ru>
+Installed-Size: 83929
+Depends: qt5-image-formats-plugins, libabsl20220623 (>= 0~20220623.0-1), libavcodec59 (>= 7:5.0), libavformat59 (>= 7:5.0), libavutil57 (>= 7:5.1), libc6 (>= 2.34), libgcc-s1 (>= 3.4), libglib2.0-0 (>= 2.40.0), libglibmm-2.68-1 (>= 2.74.0), libhunspell-1.7-0, libjpeg62-turbo (>= 1.3.1), libkf5coreaddons5 (>= 5.96.0), liblz4-1 (>= 0.0~r130), libminizip1 (>= 1.1), libopenal1 (>= 1.14), libopus0 (>= 1.1), libqrcodegencpp1 (>= 1.2.1), libqt5core5a (>= 5.15.2), libqt5gui5 (>= 5.15.2) | libqt5gui5-gles (>= 5.15.2), libqt5network5 (>= 5.15.2), libqt5qml5 (>= 5.15.2), libqt5quickwidgets5 (>= 5.15.2), libqt5svg5 (>= 5.6.0~beta), libqt5waylandcompositor5 (>= 5.7.0), libqt5widgets5 (>= 5.15.2), librlottie0-1 (>= 0~git20200305.a717479+dfsg), libsigc++-3.0-0 (>= 2.2.0), libsrtp2-1 (>= 2.0.0+20161214), libssl3 (>= 3.0.0), libstdc++6 (>= 12), libswresample4 (>= 7:5.1), libswscale6 (>= 7:5.0), libvpx7 (>= 1.12.0), libwayland-client0 (>= 1.20.0), libx11-6, libxcb-keysyms1 (>= 0.4.0), libxcb-record0, libxcb-screensaver0, libxcb1, libxcomposite1 (>= 1:0.4.5), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxrandr2 (>= 2:1.5.0), libxtst6, libxxhash0 (>= 0.6.5), qtbase-abi-5-15-8, zlib1g (>= 1:1.1.4)
+Recommends: fonts-open-sans, libwebkit2gtk-4.0-37 | libwebkit2gtk-4.1-0
+Filename: pool/main/t/telegram-desktop/telegram-desktop_4.6.5+ds-2_amd64.deb
+Size: 29718864
+MD5sum: f8650c9a46595965c2a20fce223e912f
+SHA1: e2b0a809e3a051e3440255f9e845403d05030c56
+SHA256: 98764e639856bc1fce36371bf71dedcd8782ddf8819b9a501a463748c4d1370e
+SHA512: 885122e2da2013be48b683b2bcdf0851067816efb2c363e37f3e2d36a621f9a5bbebb2e4ee63271c19d1f3f581dcbd9217bb96e5924c4c33e3cda264816a4d8f
+Homepage: https://desktop.telegram.org
+Description: fast and secure messaging application
+ Telegram is a messaging app with a focus on speed and security, it is
+ super-fast, simple and free. You can use Telegram on all your devices at the
+ same time — your messages sync seamlessly across any number of your phones,
+ tablets or computers.
 
