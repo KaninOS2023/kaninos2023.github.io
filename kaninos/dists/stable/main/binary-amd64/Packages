@@ -7,7 +7,7 @@ Section: devel
 Maintainer: Equivs Dummy Package Generator <kaninos@pardus>
 Installed-Size: 9
 Depends: build-essential:amd64, debhelper-compat (= 13)
-Filename: kaninos/pool/main/k/kaninos-xfce-gtk-theme/kaninos-xfce-gtk-theme-build-deps_1.0.0_all.deb
+Filename: pool/main/k/kaninos-xfce-gtk-theme/kaninos-xfce-gtk-theme-build-deps_1.0.0_all.deb
 Size: 2124
 MD5sum: acda2d323de445e05cc451cb4ac29afb
 SHA1: e27e57749b2a3430d0341ae8003e6059150f8584
@@ -25,7 +25,7 @@ Section: devel
 Maintainer: Equivs Dummy Package Generator <kaninos@pardus>
 Installed-Size: 9
 Depends: build-essential:amd64, debhelper-compat (= 13)
-Filename: kaninos/pool/main/k/kaninos-xfce-icon-theme/kaninos-xfce-icon-theme-build-deps_3.1.1_all.deb
+Filename: pool/main/k/kaninos-xfce-icon-theme/kaninos-xfce-icon-theme-build-deps_3.1.1_all.deb
 Size: 2124
 MD5sum: 3db515293047757533cb84791e09b6e0
 SHA1: 17cc7794705ac72a7235005a78ec21f9ad00aa10
@@ -43,7 +43,7 @@ Section: devel
 Maintainer: Equivs Dummy Package Generator <kaninos@pardus>
 Installed-Size: 9
 Depends: build-essential:amd64, debhelper (>= 9), intltool
-Filename: kaninos/pool/main/k/kaninos-xfce-settings/kaninos-xfce-settings-build-deps_0.0.1_all.deb
+Filename: pool/main/k/kaninos-xfce-settings/kaninos-xfce-settings-build-deps_0.0.1_all.deb
 Size: 2128
 MD5sum: 34a4cc12129e49da1ba47aa1c8b063c5
 SHA1: 7bcaad9b0c5502ecff575724db2d3cd8ad088dcc
@@ -62,7 +62,7 @@ Installed-Size: 1162
 Provides: pardus-gtk-theme
 Conflicts: pardus-gtk-theme
 Replaces: pardus-gtk-theme
-Filename: kaninos/pool/main/p/pardusu-xfce-gtk-theme_1.0.0_all.deb
+Filename: pool/main/p/pardusu-xfce-gtk-theme_1.0.0_all.deb
 Size: 87460
 MD5sum: f852206fc49e5297b96dc8f564d5aad7
 SHA1: a18dd174303507ce7190bcbc86c02e98d989cfe1
