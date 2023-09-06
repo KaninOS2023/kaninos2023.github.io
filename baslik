@@ -1,0 +1,11 @@
+Origin: Kaninos
+Label: Kaninos
+Suite: beta
+Version: 0.0.1
+Codename: stable
+Changelogs: https://kaninos2023.github.io
+Date: XdateX
+Acquire-By-Hash: yes
+Architectures: amd64 i386
+Components: main contrib non-free
+Description: Test repository
